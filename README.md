@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Laurence Loo Ka Keong</h1>
 <h3 align="center">Seeking for IT Internship Oppunities (28 Oct 2024 - 05 Jan 2024)</h3>
 
+- 🏫 I’m currently studying **Diploma in Information Technology at TAR UMT Penang**
+  
 - 🔭 I’m currently working on **TAR UMT Penang Virtual Campus Tour Project**
 
 - 🌱 I’m currently learning **C#, 16-bit assembly language, Java**
