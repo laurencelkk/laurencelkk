@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Web, Cloud Computing**
 
-- 📫 How to reach me **laurencelkk-pm23@student.tarc.edu.my**
+- 📫 How to reach me: **laurencelkk-pm23@student.tarc.edu.my**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
