@@ -17,8 +17,6 @@ Here are some ideas to get you started:
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&lines=Hi+👋;+I'm+Laurence+Loo+Ka+Keong;" alt="Hi 👋, I'm Laurence Loo Ka Keong"/>
 </h1>
 
-<h3 align="center">👨‍💻 Full Stack Web Developer</h3>
-
 - 🏫 I’m currently studying **Diploma in Information Technology at TAR UMT Penang**
   
 - 🔭 I’m currently working on **TAR UMT Penang Virtual Campus Tour Project**
