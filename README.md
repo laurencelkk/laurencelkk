@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </h1>
 
 #
-<h3 align="center">👨‍💻 Seeking for IT Internship Oppunities (28 Oct 2024 - 05 Jan 2025)</h3>
+<h3 align="center">👨‍💻 Full Stack Web Developer</h3>
 
 - 🏫 I’m currently studying **Diploma in Information Technology at TAR UMT Penang**
   
