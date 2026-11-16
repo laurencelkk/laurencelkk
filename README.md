@@ -82,10 +82,3 @@ Here are some ideas to get you started:
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="36" height="36"/></a>&nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36"/></a>
 </p>
-
----
-
-### 📊 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=laurencelkk&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="laurencelkk top languages" />
-</p>
